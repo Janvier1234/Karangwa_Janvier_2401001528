@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<hotelstore>
+  <room category="5_stars">
+    <name> Heaven Restaurant & Boutique Hotel</name>
+    <phone>0787 785 595</phone>
+    <address>29 Street No 7, KN Kiyovu, Kigali Rwanda </address>
+    <price>$124</price>
+    <url>https://heavenrwanda.com/stay/heaven-boutique-hotel</url>
+ </room>
+ <room category="5_stars">
+    <name>1. Radisson Blu Hotel & Convention Centre, Kigali</name>
+    <phone>252 252 252</phone>
+    <address>KG 2 Roundabout, Kigali 6845 Rwanda </address>
+    <price>$236</price>
+    <url>https://www.radissonhotels.com/en-us/hotels</url>
+ </room>
+ <room category="5_stars">
+    <name> Grand Legacy Hotel</name>
+    <phone>252 252 252</phone>
+    <address>KN 3 Rd, Kigali 6555 Rwanda </address>
+    <price>$128</price>
+    <url>https://www.tripadvisor.com</url>
+ </room>
+ <room category="4_stars">
+    <name> Lemigo Hotel</name>
+    <phone>0784 040 924</phone>
+    <address>624 St Kg Kimihurura - Rugando, Kigali Rwanda </address>
+    <price>US$196</price>
+    <url>https://www.lemigohotel.com</url>
+ </room>
+ <room category="4_stars">
+    <name> Lake Kivu Serena Hotel/Gisenyi. </name>
+    <phone> 252 541 100/phone>
+    <address>Ave de la Cooperation, Gisenyi </address>
+    <price>$180</price>
+    <url>https://www.serenahotels.com/</url>
+ </room>
+ <room category="4_stars">
+    <name>  Lebanon Hotel </name>
+    <phone>0785 008 632</phone>
+    <address> KG 213 Street 74, Remera - Kigali, Rwanda. </address>
+    <price>$98</price>
+    <url> lebanonhotelkigali.com </url>
+ </room>
+ <room category="3_stars">
+    <name>Eagle View Lodge </name>
+    <phone>0783 073 921<phone>
+    <address>Rebero, Kigali </address>
+    <price>US$119</price>
+    <url>https://eagleviewrwanda.com</url>
+ </room>
+ <room category="3_stars">
+    <name>Gloria Hotel </name>
+    <phone>0788 174 000</phone>
+    <address>KN 59 ST, Kigali</address>
+    <price>250frw</price>
+    <url> lebanonhotelkigali.com </url>
+ </room>
+</hotelstore>
